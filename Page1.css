@@ -1,0 +1,56 @@
+p.Head {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    padding-bottom: 7px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+  
+}
+
+p.Main-text {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.8;
+    padding: 20px;
+    width: 90%;
+    height: 50px;
+    padding-top: 0;
+    margin-top:0;
+    margin-bottom: 5px;
+
+}
+
+p.Date{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.8;
+    padding: 20px;
+    width: 90%;
+    padding-top: 1px;
+    margin-top:0;
+    opacity:0.6;
+}
+
+h2 {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: rgb(255, 95, 31);
+    font-weight: bolder;
+}  
+
+body{
+    background-color: black;
+}
+
+div{
+    background-color: rgb(37, 36, 36);
+    width: 80%;
+    height: 10rem;
+    border-radius: 5px;   
+    transition: background-color 0.8s ;
+}
+
+div:hover{
+    background-color:rgb(255, 95, 31);;
+}
+
